@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **C++, Problem Solving**
+- 💬 Ask me about **C++, Problem Solving, Node JS**
 
 - 📫 How to reach me **saaifalli03@gmail.com**
 
