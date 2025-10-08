@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifaliii" alt="saifaliii" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently Working as **Front End Engineer**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **C++, Problem Solving, Node JS**
+- 💬 Ask me about **C++, Problem Solving, Node JS, React JS, Tailwind, Next JS**
 
 - 📫 How to reach me **saaifalli03@gmail.com**
 
