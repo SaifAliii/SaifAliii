@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Ali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Apps;Always+Learning+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Apps;Always+Learning+🚀" />
 </p>
 
 ---
@@ -53,15 +53,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifAliii &show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifAliii &layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifAliii&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifAliii&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaifAliii &theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SaifAliii&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
