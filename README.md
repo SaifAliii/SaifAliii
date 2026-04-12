@@ -51,13 +51,17 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 12px; align-items: center;">
+  
   <a href="mailto:saaifalli03@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/saif-ali-2b88ab1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif ali" height="30" width="40" /></a>
+
+  <a href="https://www.linkedin.com/in/saif-ali-2b88ab1a8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" height="30" width="40" />
+  </a>
+
 </p>
 
 
