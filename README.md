@@ -56,12 +56,10 @@
     <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/saif-ali-2b88ab1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif ali" height="30" width="40" /></a>
 </p>
+
 
 ---
 
@@ -74,7 +72,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saif-ali-2b88ab1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif ali" height="30" width="40" /></a>
-</p>
+
