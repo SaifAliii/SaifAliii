@@ -42,23 +42,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/SaifAliii /SaifAliii /blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifAliii&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaifAliii&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaifAliii&theme=tokyonight&hide_border=true" />
